@@ -1,0 +1,2 @@
+npm init -y
+npm install express mongoose(use for connected the mongodb) cors nodemon dotenv(for importing env)
